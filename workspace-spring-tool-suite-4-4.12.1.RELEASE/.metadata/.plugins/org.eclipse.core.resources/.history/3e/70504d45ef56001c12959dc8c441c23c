@@ -1,0 +1,34 @@
+package com.example.services.impl;
+
+import java.util.List;
+
+import com.example.documents.MicroEmpresa;
+import com.example.services.MicroEmpresaService;
+
+public class MicroEmpresaServiceImpl implements MicroEmpresaService {
+
+	@Override
+	public List<MicroEmpresa> listarTodos() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public MicroEmpresa listarPorId(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public MicroEmpresa cadastrar(MicroEmpresa microempresa) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void remover(String id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
